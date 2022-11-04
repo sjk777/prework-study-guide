@@ -1,6 +1,7 @@
 # PreCourse Study Guide
 
-## a simple functional web developing project using the fundamentals of HTML,CSS, and JS implemented with GIT. the project was used to introduce key elements of building a website and used as an example to show the interlocking mechanisms of each of the aforementioned computer languages.
+## Description
+A simple functioning web development project using the fundamentals of HTML,CSS, and JS implemented with GIT. the project was used to introduce key elements of building a website and used as an example to show the interlocking mechanisms of each of the aforementioned computer languages.
 
 ## Installation
 
